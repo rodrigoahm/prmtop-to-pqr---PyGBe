@@ -2,7 +2,8 @@
 
 prmtop to pqr.ipynb transformar una o más moléculas en formato .prmtop y .crd a .pqr. 
 - Dentro del notebook se pueden cambiar los directorios así como los parámetros. 
-- También es posiblie generar una recopilación de los resultados entregados por PyGBe, pero esto sólo se puede hacer una vez, ya que se cambia el documento de .log a .revisado
+- También es posiblie generar una recopilación de los resultados entregados por PyGBe, pero esto sólo se puede hacer una vez, ya que se cambia el documento de .log a .revisado.
+- Los resultados obtenidos se ubican en la carpeta pqr dentro de Resultados.
 
 En la carpeta de los resultados se encuentran los .ipynb energy_plots y new_implicit_data.
 Para generar un documento con resultados comparables en energy_plots, es necesario utilizar new_implicit_data, la cual ordena los resultados acorde al explicit_data a comparar, además genera un documento con las moléculas y sus respectivos números de átomos y volúmenes.
