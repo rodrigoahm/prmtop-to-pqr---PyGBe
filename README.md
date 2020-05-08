@@ -1,6 +1,6 @@
 # prmtop-to-pqr---PyGBe
 
-prmtop to pqr.ipynb transformar una o mas moléculas en formato .prmtop y .crd a .pqr. 
+prmtop to pqr.ipynb transformar una o más moléculas en formato .prmtop y .crd a .pqr. 
 - Dentro del notebook se pueden cambiar los directorios así como los parámetros. 
 - También es posiblie generar una recopilación de los resultados entregados por PyGBe, pero esto sólo se puede hacer una vez, ya que se cambia el documento de .log a .revisado
 
