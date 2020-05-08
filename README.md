@@ -8,6 +8,6 @@ prmtop to pqr.ipynb transformar una o mas moléculas en formato .prmtop y .crd a
 
 
 Se utilizan las moléculas utilidas por David Mobley, para evitar problemas con la lectura de los resultados en Energy_plots.ipynb hay que modificar los siguientes nombres:
--N_methyl_N__222_trifluoroethyl__aniline --> N_methyl_N_222_trifluoroethyl_aniline
--bis_2_chloroethyl__ether --> bis_2_chloroethyl_ether
--m_bis_trifluoromethyl__benzene --> m_bis_trifluoromethyl_benzene
+- N_methyl_N__222_trifluoroethyl__aniline --> N_methyl_N_222_trifluoroethyl_aniline
+- bis_2_chloroethyl__ether --> bis_2_chloroethyl_ether
+- m_bis_trifluoromethyl__benzene --> m_bis_trifluoromethyl_benzene
