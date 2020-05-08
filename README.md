@@ -11,3 +11,7 @@ Se utilizan las moléculas utilidas por David Mobley, para evitar problemas con 
 - N_methyl_N__222_trifluoroethyl__aniline --> N_methyl_N_222_trifluoroethyl_aniline
 - bis_2_chloroethyl__ether --> bis_2_chloroethyl_ether
 - m_bis_trifluoromethyl__benzene --> m_bis_trifluoromethyl_benzene
+
+Dentro de la misma base de datos, MSMS tiene problemas para generar las mallas de las moléculas:
+- ammonia 
+- hydrogen_sulfide
