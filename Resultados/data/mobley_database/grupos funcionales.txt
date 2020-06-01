@@ -1,0 +1,446 @@
+1112_tetrachloroethane;  alkyl chloride
+111_trichloroethane;  halogen derivative
+111_trimethoxyethane;  orthocarboxylic acid derivative;  orthoester
+1122_tetrachloroethane;  alkyl chloride
+112_trichloro_122_trifluoroethane;  halogen derivative
+112_trichloroethane;  alkyl chloride
+11_diacetoxyethane;  carboxylic acid ester
+11_dichloroethane;  alkyl chloride
+11_dichloroethene;  ketene acetal or derivative;  halogen derivative
+11_diethoxyethane;  acetal
+11_difluoroethane;  alkyl fluoride
+12_diacetoxyethane;  carboxylic acid ester
+12_dibromoethane;  alkyl bromide
+12_dichloroethane;  alkyl chloride
+12_diethoxyethane;  dialkyl ether
+12_dimethoxyethane;  dialkyl ether
+12_ethanediol;  primary alcohol;  1,2-diol
+13_dichloropropane;  alkyl chloride
+14_dichlorobutane;  alkyl chloride
+14_dimethyl_piperazine;  tertiary amine;  tertiary aliphatic amine (trialkylamine);  heterocyclic
+14_dioxane;  dialkyl ether;  heterocyclic
+1_bromo_2_chloroethane;  alkyl chloride;  alkyl bromide
+1_bromo_2_methylpropane;  alkyl bromide
+1_bromobutane;  alkyl bromide
+1_bromoheptane;  alkyl bromide
+1_bromohexane;  alkyl bromide
+1_bromooctane;  alkyl bromide
+1_bromopentane;  alkyl bromide
+1_bromopropane;  alkyl bromide
+1_chloro_222_trifluoroethane;  alkyl chloride
+1_chlorobutane;  alkyl chloride
+1_chloroheptane;  alkyl chloride
+1_chlorohexane;  alkyl chloride
+1_chloropentane;  alkyl chloride
+1_chloropropane;  alkyl chloride
+1_iodobutane;  alkyl iodide
+1_iodoheptane;  alkyl iodide
+1_iodohexane;  alkyl iodide
+1_iodopentane;  alkyl iodide
+1_iodopropane;  alkyl iodide
+1_methylcyclohexene;  alkene
+1_nitrobutane;  nitro
+1_nitropentane;  nitro
+1_nitropropane;  nitro
+222_trifluoroethanol;  primary alcohol;  halogen derivative
+224_trimethylpentane;  
+225_trimethylhexane;  
+22_dimethylbutane;  
+22_dimethylpentane;  
+22_dimethylpropane;  
+234_trimethylpentane;  
+23_dimethylbuta_13_diene;  alkene
+23_dimethylbutane;  
+24_dimethylpentan_3_one;  ketone
+24_dimethylpentane;  
+2_bromo_2_methylpropane;  alkyl bromide
+2_bromopropane;  alkyl bromide
+2_butoxyethanol;  primary alcohol;  dialkyl ether
+2_chloro_111_trimethoxyethane;  alkyl chloride;  orthocarboxylic acid derivative;  orthoester
+2_chloro_2_methylpropane;  alkyl chloride
+2_chloropropane;  alkyl chloride
+2_ethoxyethanol;  primary alcohol;  dialkyl ether
+2_iodopropane;  alkyl iodide
+2_methoxy_111_trimethoxyethane;  dialkyl ether;  orthocarboxylic acid derivative;  orthoester
+2_methoxyethanamine;  dialkyl ether;  primary amine;  primary aliphatic amine (alkylamine)
+2_methyl_but_2_ene;  alkene
+2_methylbut_2_ene;  alkene
+2_methyl_but_2_ene;  alkene
+2_methylbut_2_ene;  alkene
+2_methylbuta_13_diene;  alkene
+2_methylbutan_2_ol;  tertiary alcohol
+2_methylbutane;  
+2_methylhexane;  
+2_methylpent_1_ene;  alkene
+2_methylpentan_2_ol;  tertiary alcohol
+2_methylpentane;  
+2_methylpropan_1_ol;  primary alcohol
+2_methylpropan_2_ol;  tertiary alcohol
+2_methylpropane;  
+2_methylpropene;  alkene
+2_nitropropane;  nitro
+2_propoxyethanol;  primary alcohol;  dialkyl ether
+333_trimethoxypropionitrile;  carbonitrile;  orthocarboxylic acid derivative;  orthoester
+33_dimethylbutan_2_one;  ketone
+33_dimethylpentane;  
+3_chloroprop_1_ene;  alkyl chloride;  alkene
+3_methyl_but_1_ene;  alkene
+3_methylbut_1_ene;  alkene
+3_methyl_but_1_ene;  alkene
+3_methylbut_1_ene;  alkene
+3_methylbutan_1_ol;  primary alcohol
+3_methylbutan_2_one;  ketone
+3_methylbutanoic_acid;  carboxylic acid
+3_methylpentane;  
+4_methylpentan_2_one;  ketone
+NN_dimethylformamide;  tertiary carboxylic acid amide
+N_acetylpyrrolidine;  tertiary carboxylic acid amide;  heterocyclic
+N_methylacetamide;  secondary carboxylic acid amide
+N_methylmorpholine;  dialkyl ether;  tertiary amine;  tertiary aliphatic amine (trialkylamine);  heterocyclic
+N_methylpiperazine;  secondary amine;  secondary aliphatic amine (dialkylamine);  tertiary amine;  tertiary aliphatic amine (trialkylamine);  heterocyclic
+N_methylpiperidine;  tertiary amine;  tertiary aliphatic amine (trialkylamine);  heterocyclic
+acetaldehyde;  aldehyde
+acetic_acid;  carboxylic acid
+acetonitrile;  carbonitrile
+azetidine;  secondary amine;  secondary aliphatic amine (dialkylamine);  heterocyclic
+bis_2_chloroethyl_ether;  dialkyl ether;  alkyl chloride
+bromoethane;  alkyl bromide
+bromomethane;  alkyl bromide
+but_1_ene;  alkene
+but_1_yne;  alkyne
+buta_13_diene;  alkene
+butan_1_ol;  primary alcohol
+butanenitrile;  carbonitrile
+butanoic_acid;  carboxylic acid
+butanone;  aldehyde
+butyraldehyde;  aldehyde
+butanone;  aldehyde
+butyraldehyde;  aldehyde
+chlorodifluoromethane;  halogen derivative
+chloroethane;  alkyl chloride
+chloroethylene;  halogen derivative;  alkene
+chlorofluoromethane;  alkyl fluoride;  alkyl chloride
+chloromethane;  alkyl chloride
+cyclohepta_135_triene;  alkene
+cycloheptanol;  secondary alcohol
+cyclohexane;  
+cyclohexanol;  secondary alcohol
+cyclohexanone;  ketone
+cyclohexene;  alkene
+cyclohexylamine;  primary amine;  primary aliphatic amine (alkylamine)
+cyclopentane;  
+cyclopentanol;  secondary alcohol
+cyclopentanone;  ketone
+cyclopentene;  alkene
+cyclopropane;  
+decan_1_ol;  primary alcohol
+decan_2_one;  ketone
+di_isopropyl_sulfide;  thioether
+di_n_butyl_ether;  dialkyl ether
+di_n_propyl_ether;  dialkyl ether
+di_n_propyl_sulfide;  thioether
+di_n_propylamine;  secondary amine;  secondary aliphatic amine (dialkylamine)
+dibromomethane;  alkyl bromide
+dichloromethane;  alkyl chloride
+diethyl_disulfide;  disulfide
+diethyl_ether;  dialkyl ether
+diethyl_malonate;  carboxylic acid ester
+diethyl_succinate;  carboxylic acid ester
+diethyl_sulfide;  thioether
+diethylamine;  secondary amine;  secondary aliphatic amine (dialkylamine)
+diiodomethane;  alkyl iodide
+diisopropyl_ether;  dialkyl ether
+diisopropylamine;  secondary amine;  secondary aliphatic amine (dialkylamine)
+dimethoxymethane;  acetal
+dimethyl_ether;  dialkyl ether
+dimethyl_sulfate;  sulfuric acid diester
+dimethyl_sulfide;  thioether
+dimethyl_sulfone;  sulfone
+dimethyl_sulfoxide;  sulfoxide
+dimethylamine;  secondary amine;  secondary aliphatic amine (dialkylamine)
+ethanamide;  primary carboxylic acid amide
+ethane;  
+ethanethiol;  thiol (sulfanyl);  alkylthiol
+ethanol;  primary alcohol
+ethene;  alkene
+ethyl_acetate;  carboxylic acid ester
+ethyl_butanoate;  carboxylic acid ester
+ethyl_formate;  carboxylic acid ester
+ethyl_hexanoate;  carboxylic acid ester
+ethyl_pentanoate;  carboxylic acid ester
+ethyl_propanoate;  carboxylic acid ester
+ethylamine;  primary amine;  primary aliphatic amine (alkylamine)
+fluoromethane;  alkyl fluoride
+formaldehyde;  aldehyde
+hept_1_ene;  alkene
+hept_1_yne;  alkyne
+heptan_1_ol;  primary alcohol
+heptan_2_one;  ketone
+heptan_4_one;  ketone
+heptanal;  aldehyde
+hex_1_ene;  alkene
+hex_1_yne;  alkyne
+hexa_15_diene;  alkene
+hexafluoropropene;  halogen derivative
+hexan_1_ol;  primary alcohol
+hexan_2_one;  ketone
+hexanal;  aldehyde
+hexanoic_acid;  carboxylic acid
+hydrazine;  hydrazine derivative
+iodoethane;  alkyl iodide
+iodomethane;  alkyl iodide
+isoamyl_acetate;  carboxylic acid ester
+isoamyl_formate;  carboxylic acid ester
+isobutyl_acetate;  carboxylic acid ester
+isobutyl_formate;  carboxylic acid ester
+isobutyl_isobutanoate;  carboxylic acid ester
+isobutyraldehyde;  aldehyde
+isopropyl_acetate;  carboxylic acid ester
+isopropyl_formate;  carboxylic acid ester
+methane;  
+methanesulfonyl_chloride;  sulfonyl halide
+methanethiol;  thiol (sulfanyl);  alkylthiol
+methanol;  primary alcohol
+methyl_acetate;  carboxylic acid ester
+methyl_butanoate;  carboxylic acid ester
+methyl_chloroacetate;  alkyl chloride;  carboxylic acid ester
+methyl_cyanoacetate;  carboxylic acid ester;  carbonitrile
+methyl_cyclohexanecarboxylate;  carboxylic acid ester
+methyl_cyclohexyl_ketone;  ketone
+methyl_cyclopropanecarboxylate;  carboxylic acid ester
+methyl_cyclopropyl_ketone;  ketone
+methyl_ethyl_ether;  dialkyl ether
+methyl_ethyl_sulfide;  thioether
+methyl_formate;  carboxylic acid ester
+methyl_hexanoate;  carboxylic acid ester
+methyl_isopropyl_ether;  dialkyl ether
+methyl_methanesulfonate;  sulfonic acid ester
+methyl_octanoate;  carboxylic acid ester
+methyl_pentanoate;  carboxylic acid ester
+methyl_propanoate;  carboxylic acid ester
+methyl_propyl_ether;  dialkyl ether
+methyl_t_butyl_ether;  dialkyl ether
+methyl_tert_butyl_ether;  dialkyl ether
+methyl_t_butyl_ether;  dialkyl ether
+methyl_tert_butyl_ether;  dialkyl ether
+methyl_trifluoroacetate;  halogen derivative;  carboxylic acid ester
+methyl_trimethylacetate;  carboxylic acid ester
+methylamine;  primary amine;  primary aliphatic amine (alkylamine)
+methylcyclohexane;  
+methylcyclopentane;  
+morpholine;  dialkyl ether;  secondary amine;  secondary aliphatic amine (dialkylamine);  heterocyclic
+n_butane;  
+n_butanethiol;  thiol (sulfanyl);  alkylthiol
+n_butyl_acetate;  carboxylic acid ester
+n_butylacetamide;  primary carboxylic acid amide
+n_butylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_decane;  
+n_heptane;  
+n_heptylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_hexane;  
+n_hexyl_acetate;  carboxylic acid ester
+n_hexylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_nonane;  
+n_octane;  
+n_octylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_pentane;  
+n_pentyl_acetate;  carboxylic acid ester
+n_pentyl_propanoate;  carboxylic acid ester
+n_pentylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_pentylcyclopentane;  
+n_propanethiol;  thiol (sulfanyl);  alkylthiol
+n_propyl_acetate;  carboxylic acid ester
+n_propyl_butyrate;  carboxylic acid ester
+n_propyl_formate;  carboxylic acid ester
+n_propyl_propanoate;  carboxylic acid ester
+n_propylamine;  primary amine;  primary aliphatic amine (alkylamine)
+n_propylcyclopentane;  
+nitroethane;  nitro
+nitromethane;  nitro
+non_1_ene;  alkene
+nonan_1_ol;  primary alcohol
+nonan_2_one;  ketone
+nonan_5_one;  ketone
+nonanal;  aldehyde
+oct_1_ene;  alkene
+oct_1_yne;  alkyne
+octan_1_ol;  primary alcohol
+octan_2_one;  ketone
+octanal;  aldehyde
+pent_1_ene;  alkene
+pent_1_yne;  alkyne
+penta_14_diene;  alkene
+pentachloroethane;  alkyl chloride
+pentan_1_ol;  primary alcohol
+pentan_2_one;  ketone
+pentan_3_ol;  secondary alcohol
+pentan_3_one;  ketone
+pentanal;  aldehyde
+pentanenitrile;  carbonitrile
+pentanoic_acid;  carboxylic acid
+piperazine;  secondary amine;  secondary aliphatic amine (dialkylamine);  heterocyclic
+piperidine;  secondary amine;  secondary aliphatic amine (dialkylamine);  heterocyclic
+prop_2_en_1_ol;  primary alcohol;  alkene
+propan_1_ol;  primary alcohol
+propan_2_ol;  secondary alcohol
+propane;  
+propanenitrile;  carbonitrile
+propanoic_acid;  carboxylic acid
+propanone;  ketone
+propene;  alkene
+propionaldehyde;  aldehyde
+propyne;  alkyne
+pyrrolidine;  secondary amine;  secondary aliphatic amine (dialkylamine);  heterocyclic
+tetrachloroethene;  halogen derivative
+tetrachloromethane;  halogen derivative
+tetrafluoromethane;  halogen derivative
+tetrahydrofuran;  dialkyl ether;  heterocyclic
+tetrahydropyran;  dialkyl ether;  heterocyclic
+trans_14_dimethylcyclohexane;  
+tribromomethane;  halogen derivative
+trichloroethene;  halogen derivative
+trichloromethane;  halogen derivative
+triethyl_phosphate;  phosphoric acid ester
+triethylamine;  tertiary amine;  tertiary aliphatic amine (trialkylamine)
+trimethoxy_methane;  orthocarboxylic acid derivative;  orthoester
+trimethyl_phosphate;  phosphoric acid ester
+trimethylamine;  tertiary amine;  tertiary aliphatic amine (trialkylamine)
+undecan_2_one;  ketone
+111_trifluoro_222_trimethoxyethane;  halogen derivative;  orthocarboxylic acid derivative;  orthoester
+111_trifluoropropan_2_ol;  secondary alcohol;  halogen derivative
+111_trifluoropropan_2_ol;  secondary alcohol;  halogen derivative
+1234_tetrachlorobenzene;  aryl chloride;  aromatic
+1235_tetrachlorobenzene;  aryl chloride;  aromatic
+123_trichlorobenzene;  aryl chloride;  aromatic
+123_trimethylbenzene;  aromatic
+1245_tetrachlorobenzene;  aryl chloride;  aromatic
+124_trichlorobenzene;  aryl chloride;  aromatic
+124_trimethylbenzene;  aromatic
+12_dichlorobenzene;  aryl chloride;  aromatic
+12_dichloropropane;  alkyl chloride
+135_trichlorobenzene;  aryl chloride;  aromatic
+13_dichlorobenzene;  aryl chloride;  aromatic
+13_dimethylnaphthalene;  aromatic
+14_dichlorobenzene;  aryl chloride;  aromatic
+14_dimethylnaphthalene;  aromatic
+1_ethylnaphthalene;  aromatic
+1_methyl_imidazole;  aromatic;  heterocyclic
+1_methyl_pyrrole;  aromatic;  heterocyclic
+1_methylnaphthalene;  aromatic
+23_dimethylnaphthalene;  aromatic
+23_dimethylpentane;  
+23_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+23_dimethylpyridine;  aromatic;  heterocyclic
+24_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+24_dimethylpyridine;  aromatic;  heterocyclic
+25_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+25_dimethylpyridine;  aromatic;  heterocyclic
+25_dimethyltetrahydrofuran;  dialkyl ether;  heterocyclic
+26_dimethylaniline;  primary amine;  primary aromatic amine;  aromatic
+26_dimethylnaphthalene;  aromatic
+26_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+26_dimethylpyridine;  aromatic;  heterocyclic
+2_chloroaniline;  primary amine;  primary aromatic amine;  aryl chloride;  aromatic
+2_chlorobutane;  alkyl chloride
+2_chlorophenol;  phenol or hydroxyhetarene;  aryl chloride;  aromatic
+2_chloropyridine;  aryl chloride;  aromatic;  heterocyclic
+2_ethylpyrazine;  aromatic;  heterocyclic
+2_ethylpyridine;  aromatic;  heterocyclic
+2_fluorophenol;  phenol or hydroxyhetarene;  aryl fluoride;  aromatic
+2_iodophenol;  phenol or hydroxyhetarene;  aryl iodide;  aromatic
+2_isobutylpyrazine;  aromatic;  heterocyclic
+2_methoxyaniline;  alkyl aryl ether;  primary amine;  primary aromatic amine;  aromatic
+2_methoxyphenol;  phenol or hydroxyhetarene;  alkyl aryl ether;  aromatic
+2_methylbutan_1_ol;  primary alcohol
+2_methylpentan_3_ol;  secondary alcohol
+2_methylpyrazine;  aromatic;  heterocyclic
+2_methylpyridine;  aromatic;  heterocyclic
+2_methyltetrahydrofuran;  dialkyl ether;  heterocyclic
+2_methylthiophene;  aromatic;  heterocyclic
+2_nitroaniline;  primary amine;  primary aromatic amine;  nitro;  aromatic
+2_nitrophenol;  phenol or hydroxyhetarene;  nitro;  aromatic
+2_phenylethanol;  primary alcohol;  aromatic
+34_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+34_dimethylpyridine;  aromatic;  heterocyclic
+35_dimethylphenol;  phenol or hydroxyhetarene;  aromatic
+35_dimethylpyridine;  aromatic;  heterocyclic
+3_chloroaniline;  primary amine;  primary aromatic amine;  aryl chloride;  aromatic
+3_chlorophenol;  phenol or hydroxyhetarene;  aryl chloride;  aromatic
+3_chloropyridine;  aryl chloride;  aromatic;  heterocyclic
+3_ethylphenol;  phenol or hydroxyhetarene;  aromatic
+3_ethylpyridine;  aromatic;  heterocyclic
+3_hydroxybenzaldehyde;  aldehyde;  phenol or hydroxyhetarene;  aromatic
+3_methoxyaniline;  alkyl aryl ether;  primary amine;  primary aromatic amine;  aromatic
+3_methoxyphenol;  phenol or hydroxyhetarene;  alkyl aryl ether;  aromatic
+3_methylheptane;  
+3_methylhexane;  
+3_methylpyridine;  aromatic;  heterocyclic
+3_nitroaniline;  primary amine;  primary aromatic amine;  nitro;  aromatic
+3_nitrophenol;  phenol or hydroxyhetarene;  nitro;  aromatic
+4_bromophenol;  phenol or hydroxyhetarene;  aryl bromide;  aromatic
+4_chloro_3_methylphenol;  phenol or hydroxyhetarene;  aryl chloride;  aromatic
+4_chloroaniline;  primary amine;  primary aromatic amine;  aryl chloride;  aromatic
+4_chlorophenol;  phenol or hydroxyhetarene;  aryl chloride;  aromatic
+4_ethylphenol;  phenol or hydroxyhetarene;  aromatic
+4_ethylpyridine;  aromatic;  heterocyclic
+4_fluorophenol;  phenol or hydroxyhetarene;  aryl fluoride;  aromatic
+4_hydroxybenzaldehyde;  aldehyde;  phenol or hydroxyhetarene;  aromatic
+4_methoxyaniline;  alkyl aryl ether;  primary amine;  primary aromatic amine;  aromatic
+4_methylbenzaldehyde;  aldehyde;  aromatic
+4_methylpentan_2_ol;  secondary alcohol
+4_methylpyridine;  aromatic;  heterocyclic
+4_nitroaniline;  primary amine;  primary aromatic amine;  nitro;  aromatic
+4_nitrophenol;  phenol or hydroxyhetarene;  nitro;  aromatic
+4_tert_butylphenol;  phenol or hydroxyhetarene;  aromatic
+NN_dimethylaniline;  tertiary amine;  tertiary aliphatic/aromatic amine (alkylarylamine);  aromatic
+NN_dimethylbenzamide;  tertiary carboxylic acid amide;  aromatic
+N_methyl_N_222_trifluoroethyl_aniline;  tertiary amine;  tertiary aliphatic/aromatic amine (alkylarylamine);  halogen derivative;  aromatic
+N_methylaniline;  secondary amine;  secondary aliphatic/aromatic amine (alkylarylamine);  aromatic
+acenaphthene;  aromatic
+aniline;  primary amine;  primary aromatic amine;  aromatic
+anisole;  alkyl aryl ether;  aromatic
+anthracene;  aromatic
+benzaldehyde;  aldehyde;  aromatic
+benzamide;  primary carboxylic acid amide;  aromatic
+benzene;  aromatic
+benzonitrile;  carbonitrile;  aromatic
+benzyl_bromide;  alkyl bromide;  aromatic
+benzyl_chloride;  alkyl chloride;  aromatic
+biphenyl;  aromatic
+bromobenzene;  aryl bromide;  aromatic
+bromotrifluoromethane;  halogen derivative
+butan_2_ol;  secondary alcohol
+chlorobenzene;  aryl chloride;  aromatic
+diethoxymethoxybenzene;  orthocarboxylic acid derivative;  orthoester;  aromatic
+ethyl_benzoate;  carboxylic acid ester;  aromatic
+ethylbenzene;  aromatic
+fluorobenzene;  aryl fluoride;  aromatic
+hexan_3_ol;  secondary alcohol
+imidazole;  aromatic;  heterocyclic
+indane;  aromatic
+iodobenzene;  aryl iodide;  aromatic
+isobutylbenzene;  aromatic
+m_bis_trifluoromethyl_benzene;  halogen derivative;  aromatic
+m_cresol;  phenol or hydroxyhetarene;  aromatic
+m_xylene;  aromatic
+methyl_benzoate;  carboxylic acid ester;  aromatic
+naphthalene;  aromatic
+nitrobenzene;  nitro;  aromatic
+o_cresol;  phenol or hydroxyhetarene;  aromatic
+o_xylene;  aromatic
+p_cresol;  phenol or hydroxyhetarene;  aromatic
+p_xylene;  aromatic
+pentan_2_ol;  secondary alcohol
+phenanthrene;  aromatic
+phenol;  phenol or hydroxyhetarene;  aromatic
+phenyl_formate;  carboxylic acid ester;  aromatic
+pyrene;  aromatic
+pyridine;  aromatic;  heterocyclic
+pyrrole;  aromatic;  heterocyclic
+quinoline;  aromatic;  heterocyclic
+sec_butylbenzene;  aromatic
+styrene;  alkene;  aromatic
+tert_butylbenzene;  aromatic
+thiophene;  aromatic;  heterocyclic
+toluene;  aromatic
+trimethoxymethylbenzene;  orthocarboxylic acid derivative;  orthoester;  aromatic
